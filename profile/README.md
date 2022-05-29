@@ -1,2 +1,2 @@
 
-![](images/banner.png)
+![](profile/images/banner.png)
